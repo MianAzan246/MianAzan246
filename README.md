@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MianAzan246
+- 👀 I’m interested in Learning Web Development, Programming, and Hacking.
+- 🌱 I’m currently learning the MERN Stack.
+- 📫 You can reach me on my [website](https://mianazan.com).
